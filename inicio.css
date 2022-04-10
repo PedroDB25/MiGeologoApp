@@ -45,15 +45,15 @@ body,.contenedor {
     height: 10em;
     background-repeat: no-repeat;
 }
-.pro1{background-image: url('img/logoMPA.png');
+.pro1{background-image: url('Img/logoMPA.png');
     background-size: cover;}
-.pro2{background-image: url('img/logoMGA.png');
+.pro2{background-image: url('Img/logoMGA.png');
     background-size: cover;}
-.pro3{background-image: url('img/logoMQA.png');
+.pro3{background-image: url('Img/logoMQA.png');
     background-size: cover;}
-.pro4{background-image: url('img/logoMPTA.png');
+.pro4{background-image: url('Img/logoMPTA.png');
     background-size: cover;}
-.pro5{background-image: url('img/logoMGM.png');
+.pro5{background-image: url('Img/logoMGM.png');
     background-size: cover;}
-.pro6{background-image: url('img/logoMGQ.png');
+.pro6{background-image: url('Img/logoMGQ.png');
     background-size: cover;}

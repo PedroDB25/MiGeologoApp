@@ -28,12 +28,29 @@ def create_app(test_config=None):
     @app.route('/')
     def index():
         return render_template('index.html')
-
     return app
 
-    @app.route('/hello/')
-    @app.route('/hello/<name>')
-    def hello2(name=None):
-        return render_template('hello.html', name=name)
-
+        @app.route('/pro1')
+    def index():
+        return render_template('pro1.html')
+    return app
+        @app.route('/pro2')
+    def index():
+        return render_template('error.html')
+    return app
+        @app.route('/pro3')
+    def index():
+        return render_template('error.html')
+    return app
+        @app.route('/pro4')
+    def index():
+        return render_template('error.html')
+    return app
+        @app.route('/pro5')
+    def index():
+        return render_template('error.html')
+    return app
+        @app.route('/pro6')
+    def index():
+        return render_template('error.html')
     return app
